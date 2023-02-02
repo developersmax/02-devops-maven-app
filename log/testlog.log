@@ -1,0 +1,253 @@
+2022-07-25 15:56:48,694 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 15:56:48,760 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 15:56:54,501 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 15:56:54,658 - nopCommercw -INFO - *******Started login********
+2022-07-25 15:57:51,283 - nopCommercw -INFO - *******Adding new customer********
+2022-07-25 15:57:51,283 - nopCommercw -INFO - *******Providing Customer Details********
+2022-07-25 15:57:58,619 - nopCommercw -INFO - *******Saving customer details ********
+2022-07-25 15:58:04,354 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 15:58:05,967 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 15:58:05,976 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 15:58:08,621 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 15:58:08,839 - nopCommercw -INFO - *******Started login********
+2022-07-25 15:58:25,145 - nopCommercw -INFO - ********* Searching customer details by Email **************
+2022-07-25 15:58:31,583 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 15:58:33,195 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 15:58:33,215 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 15:58:37,688 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 15:58:37,816 - nopCommercw -INFO - *******Started login********
+2022-07-25 15:59:07,545 - nopCommercw -INFO - ********* Searching customer details by Name **************
+2022-07-25 15:59:11,162 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 15:59:12,751 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 15:59:12,755 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 15:59:19,977 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 15:59:20,173 - nopCommercw -INFO - *******Started login********
+2022-07-25 15:59:49,292 - nopCommercw -INFO - *******Login Failed********
+2022-07-25 15:59:49,306 - nopCommercw -INFO - *******Click on logout link********
+2022-07-25 15:59:54,976 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 15:59:56,659 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 15:59:56,678 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 16:00:01,022 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 16:00:01,230 - nopCommercw -INFO - *******Started login********
+2022-07-25 16:00:01,350 - nopCommercw -INFO - *******Login Failed********
+2022-07-25 16:00:02,727 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 16:00:02,729 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 16:00:07,396 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 16:00:07,678 - nopCommercw -INFO - *******Started login********
+2022-07-25 16:00:07,771 - nopCommercw -INFO - *******Login Failed********
+2022-07-25 17:17:46,724 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 17:17:47,203 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 17:18:02,988 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 17:18:03,439 - nopCommercw -INFO - *******Started login********
+2022-07-25 17:18:35,431 - nopCommercw -INFO - *******Adding new customer********
+2022-07-25 17:18:35,432 - nopCommercw -INFO - *******Providing Customer Details********
+2022-07-25 17:18:43,077 - nopCommercw -INFO - *******Saving customer details ********
+2022-07-25 17:18:49,437 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 17:18:51,742 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 17:18:51,746 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 17:18:55,180 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 17:18:55,319 - nopCommercw -INFO - *******Started login********
+2022-07-25 17:19:09,703 - nopCommercw -INFO - ********* Searching customer details by Email **************
+2022-07-25 17:19:16,179 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 17:19:18,083 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 17:19:18,094 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 17:19:21,756 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 17:19:21,913 - nopCommercw -INFO - *******Started login********
+2022-07-25 17:19:36,113 - nopCommercw -INFO - ********* Searching customer details by Name **************
+2022-07-25 17:19:39,733 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 17:21:14,007 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 17:21:14,069 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 17:21:16,303 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 17:21:17,039 - nopCommercw -INFO - *******Started login********
+2022-07-25 17:21:41,898 - nopCommercw -INFO - *******Adding new customer********
+2022-07-25 17:21:41,898 - nopCommercw -INFO - *******Providing Customer Details********
+2022-07-25 17:21:50,044 - nopCommercw -INFO - *******Saving customer details ********
+2022-07-25 17:21:55,780 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 17:22:03,958 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 17:22:03,961 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 17:22:05,828 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 17:22:05,941 - nopCommercw -INFO - *******Started login********
+2022-07-25 17:22:16,238 - nopCommercw -INFO - ********* Searching customer details by Email **************
+2022-07-25 17:22:22,778 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 17:22:31,310 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 17:22:31,314 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 17:22:33,028 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 17:22:33,159 - nopCommercw -INFO - *******Started login********
+2022-07-25 17:22:48,592 - nopCommercw -INFO - ********* Searching customer details by Name **************
+2022-07-25 17:22:52,690 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 17:55:49,513 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 17:55:49,591 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 17:55:53,382 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 17:55:53,563 - nopCommercw -INFO - *******Started login********
+2022-07-25 17:56:10,675 - nopCommercw -INFO - *******Adding new customer********
+2022-07-25 17:56:10,676 - nopCommercw -INFO - *******Providing Customer Details********
+2022-07-25 17:56:18,223 - nopCommercw -INFO - *******Saving customer details ********
+2022-07-25 17:56:23,988 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 18:00:21,648 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 18:00:21,716 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 18:00:25,002 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 18:00:25,200 - nopCommercw -INFO - *******Started login********
+2022-07-25 18:00:42,475 - nopCommercw -INFO - *******Adding new customer********
+2022-07-25 18:00:42,476 - nopCommercw -INFO - *******Providing Customer Details********
+2022-07-25 18:00:49,801 - nopCommercw -INFO - *******Saving customer details ********
+2022-07-25 18:00:56,303 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 18:00:57,872 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 18:00:57,968 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 18:01:01,287 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 18:01:01,454 - nopCommercw -INFO - *******Started login********
+2022-07-25 18:01:15,400 - nopCommercw -INFO - ********* Searching customer details by Email **************
+2022-07-25 18:01:21,877 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 18:01:23,521 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 18:01:23,523 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 18:01:26,536 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 18:01:26,685 - nopCommercw -INFO - *******Started login********
+2022-07-25 18:01:42,263 - nopCommercw -INFO - ********* Searching customer details by Name **************
+2022-07-25 18:01:45,935 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 18:01:47,509 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 18:01:47,515 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 18:01:49,843 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 18:01:50,014 - nopCommercw -INFO - *******Started login********
+2022-07-25 18:01:55,344 - nopCommercw -INFO - *******Login Failed********
+2022-07-25 18:01:55,362 - nopCommercw -INFO - *******Click on logout link********
+2022-07-25 18:02:00,376 - nopCommercw -INFO - *******Closing Browser********
+2022-07-25 18:02:01,942 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 18:02:01,944 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 18:02:04,394 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 18:02:04,626 - nopCommercw -INFO - *******Started login********
+2022-07-25 18:02:04,720 - nopCommercw -INFO - *******Login Failed********
+2022-07-25 18:02:06,299 - nopCommercw -INFO - *****Launching URL********
+2022-07-25 18:02:06,302 - nopCommercw -INFO - *******Opening URL********
+2022-07-25 18:02:09,118 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-25 18:02:09,386 - nopCommercw -INFO - *******Started login********
+2022-07-25 18:02:09,480 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:02:50,592 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:02:50,893 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:02:55,707 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:02:55,883 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:03:14,921 - nopCommercw -INFO - *******Adding new customer********
+2022-07-27 09:03:14,921 - nopCommercw -INFO - *******Providing Customer Details********
+2022-07-27 09:03:22,658 - nopCommercw -INFO - *******Saving customer details ********
+2022-07-27 09:03:28,312 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:03:29,814 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:03:29,820 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:03:33,149 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:03:33,353 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:03:46,288 - nopCommercw -INFO - ********* Searching customer details by Email **************
+2022-07-27 09:03:52,813 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:03:54,362 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:03:54,372 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:03:57,846 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:03:58,029 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:04:12,866 - nopCommercw -INFO - ********* Searching customer details by Name **************
+2022-07-27 09:04:16,547 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:04:18,166 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:04:18,169 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:04:20,959 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:04:21,127 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:04:27,282 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:04:27,291 - nopCommercw -INFO - *******Click on logout link********
+2022-07-27 09:04:32,229 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:04:34,057 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:04:34,067 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:04:37,371 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:04:37,599 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:04:37,694 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:04:39,632 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:04:39,650 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:04:44,817 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:04:45,076 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:04:45,192 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:14:30,974 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:14:31,035 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:14:36,123 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:14:36,285 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:14:55,888 - nopCommercw -INFO - *******Adding new customer********
+2022-07-27 09:14:55,889 - nopCommercw -INFO - *******Providing Customer Details********
+2022-07-27 09:15:03,100 - nopCommercw -INFO - *******Saving customer details ********
+2022-07-27 09:15:09,256 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:15:10,704 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:15:10,734 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:15:14,242 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:15:14,426 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:15:26,859 - nopCommercw -INFO - ********* Searching customer details by Email **************
+2022-07-27 09:15:33,315 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:15:34,868 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:15:34,893 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:15:37,522 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:15:37,688 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:15:49,620 - nopCommercw -INFO - ********* Searching customer details by Name **************
+2022-07-27 09:15:53,265 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:15:54,827 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:15:54,849 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:15:58,317 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:15:58,448 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:16:03,751 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:16:03,796 - nopCommercw -INFO - *******Click on logout link********
+2022-07-27 09:16:08,881 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:16:10,411 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:16:10,416 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:16:13,863 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:16:14,108 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:16:14,210 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:16:15,774 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:16:15,778 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:16:18,828 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:16:19,061 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:16:19,161 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:25:38,205 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:25:38,284 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:25:41,926 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:25:42,093 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:25:46,944 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:25:46,948 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:25:50,925 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:25:50,958 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:25:56,162 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:25:56,240 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:25:59,883 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:26:00,063 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:26:05,811 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:26:05,826 - nopCommercw -INFO - *******Click on logout link********
+2022-07-27 09:26:10,763 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:26:12,537 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:26:12,607 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:26:16,324 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:26:16,558 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:26:16,654 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:37:26,098 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:37:26,462 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:37:31,320 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:37:32,258 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:38:04,855 - nopCommercw -INFO - *******Adding new customer********
+2022-07-27 09:38:04,856 - nopCommercw -INFO - *******Providing Customer Details********
+2022-07-27 09:38:14,263 - nopCommercw -INFO - *******Saving customer details ********
+2022-07-27 09:38:21,467 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:38:30,689 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:38:30,691 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:38:36,127 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:38:36,317 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:38:48,820 - nopCommercw -INFO - ********* Searching customer details by Email **************
+2022-07-27 09:38:56,056 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:39:00,534 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:39:00,538 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:39:03,426 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:39:03,622 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:39:22,214 - nopCommercw -INFO - ********* Searching customer details by Name **************
+2022-07-27 09:39:25,894 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:39:30,902 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:39:30,931 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:39:33,592 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:39:33,749 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:39:40,991 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:39:41,009 - nopCommercw -INFO - *******Click on logout link********
+2022-07-27 09:39:46,311 - nopCommercw -INFO - *******Closing Browser********
+2022-07-27 09:39:48,261 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:39:48,264 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:39:51,263 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:39:51,548 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:39:51,686 - nopCommercw -INFO - *******Login Failed********
+2022-07-27 09:39:53,318 - nopCommercw -INFO - *****Launching URL********
+2022-07-27 09:39:53,357 - nopCommercw -INFO - *******Opening URL********
+2022-07-27 09:39:57,006 - nopCommercw -INFO - *****Providing Login Details********
+2022-07-27 09:39:57,296 - nopCommercw -INFO - *******Started login********
+2022-07-27 09:39:57,392 - nopCommercw -INFO - *******Login Failed********
